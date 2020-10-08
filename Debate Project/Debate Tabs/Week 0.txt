@@ -1,0 +1,65 @@
+Week 0
+
+*****************
+*     Room1     *
+*****************
+-----------------
+1st Government
+Jacqueline Eichenblatt
+Jordan Fox
+-----------------
+1st Opposition
+Stefan Stefanov
+Noam Ostfeld
+-----------------
+2nd Government
+Guy Eshet
+Sharon Amor
+-----------------
+2nd Opposition
+Ariel Brodkey
+Romina Stiglitz
+-----------------
+
+*****************
+*     Room2     *
+*****************
+-----------------
+1st Government
+Furaha Chessoni
+Moriah Khalili
+-----------------
+1st Opposition
+Veronika Becvar
+Eylon Dary
+-----------------
+2nd Government
+Gahl Shuster
+Kirk Dsouza
+-----------------
+2nd Opposition
+Itamar Kamar
+Neta Rozy
+-----------------
+
+*****************
+*     Room3     *
+*****************
+-----------------
+1st Government
+Kelly Odes
+Sophie Von Zitzewitz
+-----------------
+1st Opposition
+Sigalit Lidai
+Zac Hamburger
+-----------------
+2nd Government
+Yonatan Wruble
+Kate Zinkovskaia
+-----------------
+2nd Opposition
+Avichai Korn
+Nir Levin
+-----------------
+
